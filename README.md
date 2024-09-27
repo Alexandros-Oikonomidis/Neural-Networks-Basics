@@ -17,7 +17,7 @@ Welcome to the **Neural Network Architecture Tutorials** repository! This collec
   - **PyTorch Implementation**: Translating manual calculations into code.
   - **Visualizations**: Graphs and plots to illustrate network operations.
 
-  [FCNN Tutorial](.https://github.com/Alexandros-Oikonomidis/Neural-Networks-Basics/blob/main/FCNN_tutorial.ipynb)
+  [FCNN Tutorial](https://github.com/Alexandros-Oikonomidis/Neural-Networks-Basics/blob/main/FCNN_tutorial.ipynb)
 
 ## Next Steps
 
